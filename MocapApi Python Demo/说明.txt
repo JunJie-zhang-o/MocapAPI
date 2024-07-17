@@ -1,0 +1,3 @@
+mocap_api.py 是我们MocapApi的插件
+calc-MocapApi.py是我们MocapApi的插件
+CalcDemo.py.py是用户写的用py接入calc数据的一个demo
